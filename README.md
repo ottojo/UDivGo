@@ -1,4 +1,4 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/ottojo/UDivGo)](https://goreportcard.com/report/github.com/ottojo/UDivGo) [![Build Status](https://travis-ci.com/ottojo/UDivGo.svg?token=creaD6zVZrfFpgEzRxXK&branch=master)](https://travis-ci.com/ottojo/UDivGo)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ottojo/UDivGo)](https://goreportcard.com/report/github.com/ottojo/UDivGo) [![Build Status](https://travis-ci.org/ottojo/UDivGo.svg?branch=master)](https://travis-ci.org/ottojo/UDivGo)
 
 # UDivGo
 Voltage Divider Calculator that presents the optimal Voltage Divider consisting of a given set of availiable resistors.
